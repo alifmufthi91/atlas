@@ -1,0 +1,5 @@
+langchain==0.3.17
+langchain_community==0.3.16
+langchain_experimental==0.3.4
+langchain_huggingface==0.1.2
+streamlit==1.42.0
